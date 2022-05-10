@@ -1,0 +1,51 @@
+body{
+     background-color: black;
+     font-family: Arial, Helvetica, sans-serif;
+     color: white;
+}
+
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+   color: white;
+}
+
+a{ font-family: Arial, Helvetica, sans-serif;
+    color: white;
+   text-decoration: none;
+}
+a:{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgba(136, 134, 134, 0.699);
+   text-decoration: none;
+}
+table {
+   background-color: gray;
+}
+ul{
+   border: 1 solid black;
+   padding: 0%;
+   margin: 0%;
+   list-style:  none;
+}
+ul li{
+    border: 1px solid red;
+    float: left
+}
+ul li a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
+    margin: 1px;
+   }
+ul li a:hover {
+    border: 1px
+    background: orange;
+    color: #000000;
+    text-decoration: none;
+}
+
+
+
+
